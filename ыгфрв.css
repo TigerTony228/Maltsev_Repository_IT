@@ -164,4 +164,15 @@ section h2 {
     color: #2c3e50;
     margin-bottom: 15px;
 }
+/* Подвал */
+.footer {
+    background-color: #2c3e50;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
 
+.footer address {
+    font-style: normal;
+    margin-top: 20px;
+}
